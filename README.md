@@ -10,6 +10,8 @@
 
 
 # Auto Loader
+![image](https://github.com/anjijava16/databricks_data_utils/assets/5849522/50179171-50b0-4b73-b8c9-880d6296d47d)
+
 
 
 # Delta Live Tables
