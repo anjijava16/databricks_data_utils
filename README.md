@@ -19,6 +19,10 @@
 # Delta Live Tables
 ![image](https://github.com/anjijava16/databricks_data_utils/assets/5849522/5599333b-c6cd-4270-9844-f9e24dcf6e44)
 
+# Workflows
+![image](https://github.com/anjijava16/databricks_data_utils/assets/5849522/14ef3bdc-09a7-46de-baa7-a52950aa8518)
+
+
 
 # Ref
 1. https://matthewsalminen.medium.com/ingest-data-with-databricks-autoloader-7360c16b8608
