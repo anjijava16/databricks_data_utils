@@ -1,1 +1,4 @@
+# Databricks Workflows
+1. Databricks Workflows is a fully-managed orchestration service that is tightly integrated with the Databricks Lakehouse Platform. It allows data teams to orchestrate data processing, machine learning, and analytics pipelines in the Databricks Lakehouse Platform. It uses Databricks Jobs to run non-interactive code in your Databricks workspace. Your Databricks Job can consist of a single task or can be a large, multi-task workflow with complex dependencies.
 
+2. When running workflows in production, data teams usually need a notification system to keep track of important events in the life of the workflow: start, success, and failure. That’s why Databricks has the ability to receive Job notifications via email or system notifications. This feature provides the ability to integrate Workflows notifications into your monitoring systems and messaging applications.
