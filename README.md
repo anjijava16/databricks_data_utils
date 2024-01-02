@@ -1,4 +1,8 @@
 # databricks_data_utils
+
+![image](https://github.com/anjijava16/databricks_data_utils/assets/5849522/92220548-c4f1-468c-8a31-f3200511ef66)
+
+
 1. Auto Loader
 2. Lakehouse(Lake House (Datawarehouse+ Lake +Delta)
 3. Medallion Architecture (silver---> Broonze ---> gold)
