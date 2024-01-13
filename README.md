@@ -35,3 +35,6 @@
 3. https://matthewsalminen.medium.com/the-power-duo-databricks-auto-loader-and-delta-live-tables-e6b6bc0d2982
 4. https://matthewsalminen.medium.com/optimize-your-delta-tables-etls-with-change-data-feed-cdf-in-databricks-0ded9b01cf22
 
+# Professional
+1. https://medium.com/@sjrusso/passing-the-databricks-professional-data-engineer-exam-115cccc90aba
+
