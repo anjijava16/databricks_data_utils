@@ -16,6 +16,10 @@
 # Auto Loader
 ![image](https://github.com/anjijava16/databricks_data_utils/assets/5849522/50179171-50b0-4b73-b8c9-880d6296d47d)
 
+<img width="962" alt="image" src="https://github.com/anjijava16/databricks_data_utils/assets/5849522/ac2b1016-2112-4c98-bac3-6612e71b9659">
+
+
+
 # Medallion Arch
 ![image](https://github.com/anjijava16/databricks_data_utils/assets/5849522/39070297-a2b1-4147-a8aa-4983603d9a01)
 
